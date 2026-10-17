@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+shapely>=2.0
+pyproj
